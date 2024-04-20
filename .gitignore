@@ -1,0 +1,7 @@
+echo "# my-7-month-exam" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SardorUraimov123/my-7-month-exam.git
+git push -u origin main
